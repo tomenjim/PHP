@@ -1,5 +1,5 @@
 <?php 
-require_once('menu.php');
+require_once('menu.css');
 
 class Drink extends Menu {
   private $type;
