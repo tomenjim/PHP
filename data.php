@@ -1,7 +1,7 @@
 <?php
 require_once('drink.php');
 require_once('food.php');
-require_once('review.php');
+require_once('review.html');
 require_once('user.php');
 
 $juice = new Drink('JUICE', 600, 'https://s3-ap-northeast-1.amazonaws.com/progate/shared/images/lesson/php/juice.png', 'アイス');
